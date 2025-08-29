@@ -1,7 +1,7 @@
 # Agrotis
 
 
-Website prototype - Zaara
+Website prototype - Zaara , Amaan
 Web dev frontend - Zaara, Umang , pooja
 Prediction - Chetan
 Chat bot - Chetan , amaan
