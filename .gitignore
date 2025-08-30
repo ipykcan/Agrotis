@@ -1,0 +1,7 @@
+__pycache__/
+venv/
+*.whl
+dataset/
+models/
+cache.db
+*.tif
